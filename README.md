@@ -5,7 +5,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Ralseth/solidbranch-dashboard.git
-   cd <ваш_репо>
+   cd solidbranch-dashboard
 
 2. Установите зависимости:
    npm install
