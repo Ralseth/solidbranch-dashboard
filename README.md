@@ -4,7 +4,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш_аккаунт>/<ваш_репо>.git
+   git clone https://github.com/Ralseth/solidbranch-dashboard.git
    cd <ваш_репо>
 
 2. Установите зависимости:
